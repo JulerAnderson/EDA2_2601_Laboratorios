@@ -1,9 +1,10 @@
 # Correctitud de Algoritmos
 
-En esta guía trabajaremos dos técnicas de prueba de correctitud:
+En esta guía trabajaremos las 3 técnicas de prueba de correctitud vistas en clase:
 
 - **Contraejemplo**
 - **Inducción matemática**
+- **Invariante de bucle**
 
 ---
 
