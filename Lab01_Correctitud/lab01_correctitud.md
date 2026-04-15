@@ -71,9 +71,8 @@ $$
 - Proposición
 - Caso base
 - Hipótesis inductiva
-- Lo que debemos probar
-- Por definición de la función
-- Demostración paso a paso
+- Paso inductuivo
+- Conclusión
 
 ---
 
@@ -97,9 +96,8 @@ $$
 - Proposición
 - Caso base
 - Hipótesis inductiva
-- Lo que debemos probar
-- Por definición de la función
-- Demostración paso a paso
+- Paso inductuivo
+- Conclusión
 
 ---
 
