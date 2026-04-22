@@ -4,6 +4,7 @@ En este documento se presentan las soluciones de los ejercicios de:
 
 - **Contraejemplo**
 - **Inducción matemática**
+- **Invariante de bucle**
 
 ---
 
